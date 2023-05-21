@@ -4,9 +4,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfilippovw&layout=compact)](https://github.com/ivanfilippovw/github-readme-stats)
 
-codewars:  
-[![codewars](https://www.codewars.com/users/Ivanfwit/badges/large)](https://www.codewars.com/users/Ivanfwit)   
-
+<!-- codewars:   -->
+<!-- [![codewars](https://www.codewars.com/users/Ivanfwit/badges/large)](https://www.codewars.com/users/Ivanfwit)    -->
+[![codewars](https://www.codewars.com/users/Ivanfwit/badges/small)](https://www.codewars.com/users/Ivanfwit) 
 
 
 <!-- 
